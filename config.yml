@@ -22,7 +22,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  canonifyURLs: true
+  canonifyURLs: false
   ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -35,6 +35,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  relativeURLS: true
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
