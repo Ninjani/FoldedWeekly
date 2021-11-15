@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Folded Weekly</title>
+    <link>https://ninjani.github.io/FoldedWeekly/</link>
+    <description>Recent content on Folded Weekly</description>
+    <image>
+      <url>https://ninjani.github.io/logo_full.png</url>
+      <link>https://ninjani.github.io/logo_full.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 Nov 2021 10:27:04 +0100</lastBuildDate><atom:link href="https://ninjani.github.io/FoldedWeekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 2</title>
+      <link>https://ninjani.github.io/FoldedWeekly/posts/2/</link>
+      <pubDate>Mon, 15 Nov 2021 10:27:04 +0100</pubDate>
+      
+      <guid>https://ninjani.github.io/FoldedWeekly/posts/2/</guid>
+      <description>This week we look at modelling proteomes, peptide antibiotics, and antibody design</description>
+    </item>
+    
+    <item>
+      <title>Issue 1</title>
+      <link>https://ninjani.github.io/FoldedWeekly/posts/1/</link>
+      <pubDate>Sat, 06 Nov 2021 15:40:06 +0100</pubDate>
+      
+      <guid>https://ninjani.github.io/FoldedWeekly/posts/1/</guid>
+      <description>This week we look at conformational diversity, post-translational modifications,
+integrative structural modelling, pre-training protein sequences, and sequencing proteins.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
