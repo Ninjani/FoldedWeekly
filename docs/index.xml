@@ -9,7 +9,16 @@
       <link>https://ninjani.github.io/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 10:27:04 +0100</lastBuildDate><atom:link href="https://ninjani.github.io/FoldedWeekly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 16:14:14 +0100</lastBuildDate><atom:link href="https://ninjani.github.io/FoldedWeekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 3</title>
+      <link>https://ninjani.github.io/FoldedWeekly/posts/3/</link>
+      <pubDate>Mon, 22 Nov 2021 16:14:14 +0100</pubDate>
+      
+      <guid>https://ninjani.github.io/FoldedWeekly/posts/3/</guid>
+      <description>This week there&amp;rsquo;s SARS-CoV-2 structures, protein computing agents, and sequence-structure embeddings.</description>
+    </item>
+    
     <item>
       <title>Issue 2</title>
       <link>https://ninjani.github.io/FoldedWeekly/posts/2/</link>
