@@ -1,4 +1,4 @@
-baseURL: "https://ninjani.github.io/FoldedWeekly/"
+baseURL: "https://folded-weekly.netlify.app/"
 title: Folded Weekly
 paginate: 5
 theme: hugo-PaperMod
