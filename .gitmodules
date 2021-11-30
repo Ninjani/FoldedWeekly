@@ -1,0 +1,6 @@
+[submodule "hugo-PaperMod"]
+	path = hugo-PaperMod
+	url = https://github.com/Ninjani/hugo-PaperMod
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/Ninjani/hugo-PaperMod

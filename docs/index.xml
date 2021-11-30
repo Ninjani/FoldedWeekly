@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Folded Weekly</title>
     <link>https://ninjani.github.io/FoldedWeekly/</link>
@@ -9,7 +9,16 @@
       <link>https://ninjani.github.io/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Nov 2021 16:14:14 +0100</lastBuildDate><atom:link href="https://ninjani.github.io/FoldedWeekly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Nov 2021 13:32:41 +0100</lastBuildDate><atom:link href="https://ninjani.github.io/FoldedWeekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 4</title>
+      <link>https://ninjani.github.io/FoldedWeekly/posts/4/</link>
+      <pubDate>Tue, 30 Nov 2021 13:32:41 +0100</pubDate>
+      
+      <guid>https://ninjani.github.io/FoldedWeekly/posts/4/</guid>
+      <description>This week is co-evolution and structural variants, both disease-associated and otherwise</description>
+    </item>
+    
     <item>
       <title>Issue 3</title>
       <link>https://ninjani.github.io/FoldedWeekly/posts/3/</link>

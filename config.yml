@@ -1,7 +1,7 @@
 baseURL: "https://ninjani.github.io/FoldedWeekly/"
 title: Folded Weekly
 paginate: 5
-theme: PaperMod
+theme: hugo-PaperMod
 publishDir: "docs"
 
 enableRobotsTXT: true

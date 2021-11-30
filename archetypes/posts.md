@@ -7,6 +7,7 @@ draft: false
 hidemeta: false
 comments: false
 ShowBreadCrumbs: false
+ShowReadingTime: true
 summary: |
   This is the summary
 cover:
