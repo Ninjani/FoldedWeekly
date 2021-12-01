@@ -69,7 +69,18 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Folded Weekly"
-    Content: A collection of new and exciting preprints and papers in the world of computational structural biology
+    Content: |
+      -
+
+      A collection of new and exciting preprints and papers in the world of computational structural biology
+
+      -
+
+      -
+      
+      -
+
+      Brought to you by the _[Schwede Group](https://www.biozentrum.unibas.ch/research/research-groups/research-groups-a-z/overview/unit/research-group-torsten-schwede)_
 
 
 #  socialIcons:
@@ -113,11 +124,11 @@ menu:
     - identifier: search
       name: Search
       url: search/
-      weight: 10
+      weight: 20
     - identifier: archives
       name: Archive
       url: archives
-      weight: 20
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
