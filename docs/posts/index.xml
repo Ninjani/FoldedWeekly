@@ -2,47 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Folded Weekly</title>
-    <link>https://ninjani.github.io/FoldedWeekly/posts/</link>
+    <link>https://folded-weekly.netlify.app/posts/</link>
     <description>Recent content in Posts on Folded Weekly</description>
     <image>
-      <url>https://ninjani.github.io/logo_full.png</url>
-      <link>https://ninjani.github.io/logo_full.png</link>
+      <url>https://folded-weekly.netlify.app/logo_full.png</url>
+      <link>https://folded-weekly.netlify.app/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Nov 2021 13:32:41 +0100</lastBuildDate><atom:link href="https://ninjani.github.io/FoldedWeekly/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Dec 2021 18:26:47 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 5</title>
+      <link>https://folded-weekly.netlify.app/posts/5/</link>
+      <pubDate>Mon, 06 Dec 2021 18:26:47 +0100</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/posts/5/</guid>
+      <description>This week we look at SARS-CoV-2 variants, inducing AlphaFold into giving us multiple states, and filling AlphaFold models with small molecules</description>
+    </item>
+    
     <item>
       <title>Issue 4</title>
-      <link>https://ninjani.github.io/FoldedWeekly/posts/4/</link>
+      <link>https://folded-weekly.netlify.app/posts/4/</link>
       <pubDate>Tue, 30 Nov 2021 13:32:41 +0100</pubDate>
       
-      <guid>https://ninjani.github.io/FoldedWeekly/posts/4/</guid>
+      <guid>https://folded-weekly.netlify.app/posts/4/</guid>
       <description>This week is co-evolution and structural variants, both disease-associated and otherwise</description>
     </item>
     
     <item>
       <title>Issue 3</title>
-      <link>https://ninjani.github.io/FoldedWeekly/posts/3/</link>
+      <link>https://folded-weekly.netlify.app/posts/3/</link>
       <pubDate>Mon, 22 Nov 2021 16:14:14 +0100</pubDate>
       
-      <guid>https://ninjani.github.io/FoldedWeekly/posts/3/</guid>
+      <guid>https://folded-weekly.netlify.app/posts/3/</guid>
       <description>This week there&amp;rsquo;s SARS-CoV-2 structures, protein computing agents, and sequence-structure embeddings.</description>
     </item>
     
     <item>
       <title>Issue 2</title>
-      <link>https://ninjani.github.io/FoldedWeekly/posts/2/</link>
+      <link>https://folded-weekly.netlify.app/posts/2/</link>
       <pubDate>Mon, 15 Nov 2021 10:27:04 +0100</pubDate>
       
-      <guid>https://ninjani.github.io/FoldedWeekly/posts/2/</guid>
+      <guid>https://folded-weekly.netlify.app/posts/2/</guid>
       <description>This week we look at modelling proteomes, peptide antibiotics, and antibody design</description>
     </item>
     
     <item>
       <title>Issue 1</title>
-      <link>https://ninjani.github.io/FoldedWeekly/posts/1/</link>
+      <link>https://folded-weekly.netlify.app/posts/1/</link>
       <pubDate>Sat, 06 Nov 2021 15:40:06 +0100</pubDate>
       
-      <guid>https://ninjani.github.io/FoldedWeekly/posts/1/</guid>
+      <guid>https://folded-weekly.netlify.app/posts/1/</guid>
       <description>This week we look at conformational diversity, post-translational modifications,
 integrative structural modelling, pre-training protein sequences, and sequencing proteins.</description>
     </item>

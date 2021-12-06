@@ -2,30 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ninjani.github.io/FoldedWeekly/</loc>
+    <loc>https://folded-weekly.netlify.app/</loc>
+    <lastmod>2021-12-06T18:26:47+01:00</lastmod>
+  </url><url>
+    <loc>https://folded-weekly.netlify.app/posts/5/</loc>
+    <lastmod>2021-12-06T18:26:47+01:00</lastmod>
+  </url><url>
+    <loc>https://folded-weekly.netlify.app/posts/</loc>
+    <lastmod>2021-12-06T18:26:47+01:00</lastmod>
+  </url><url>
+    <loc>https://folded-weekly.netlify.app/posts/4/</loc>
     <lastmod>2021-11-30T13:32:41+01:00</lastmod>
   </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/posts/4/</loc>
-    <lastmod>2021-11-30T13:32:41+01:00</lastmod>
-  </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/posts/</loc>
-    <lastmod>2021-11-30T13:32:41+01:00</lastmod>
-  </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/posts/3/</loc>
+    <loc>https://folded-weekly.netlify.app/posts/3/</loc>
     <lastmod>2021-11-22T16:14:14+01:00</lastmod>
   </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/posts/2/</loc>
+    <loc>https://folded-weekly.netlify.app/posts/2/</loc>
     <lastmod>2021-11-15T10:27:04+01:00</lastmod>
   </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/posts/1/</loc>
+    <loc>https://folded-weekly.netlify.app/posts/1/</loc>
     <lastmod>2021-11-06T15:40:06+01:00</lastmod>
   </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/archives/</loc>
+    <loc>https://folded-weekly.netlify.app/archives/</loc>
   </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/categories/</loc>
+    <loc>https://folded-weekly.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/search/</loc>
+    <loc>https://folded-weekly.netlify.app/search/</loc>
   </url><url>
-    <loc>https://ninjani.github.io/FoldedWeekly/tags/</loc>
+    <loc>https://folded-weekly.netlify.app/tags/</loc>
   </url>
 </urlset>
