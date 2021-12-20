@@ -9,7 +9,16 @@
       <link>https://folded-weekly.netlify.app/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Dec 2021 22:12:12 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Dec 2021 19:07:18 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 7</title>
+      <link>https://folded-weekly.netlify.app/posts/7/</link>
+      <pubDate>Mon, 20 Dec 2021 19:07:18 +0100</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/posts/7/</guid>
+      <description>This week we look at ligand docking, SARS-CoV-2 variants, and enzyme active site flexibility.</description>
+    </item>
+    
     <item>
       <title>Issue 6</title>
       <link>https://folded-weekly.netlify.app/posts/6/</link>
@@ -63,6 +72,18 @@
       <guid>https://folded-weekly.netlify.app/posts/1/</guid>
       <description>This week we look at conformational diversity, post-translational modifications,
 integrative structural modelling, pre-training protein sequences, and sequencing proteins.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://folded-weekly.netlify.app/headers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/headers/</guid>
+      <description>Pymol script draw_protein.py
+from pymol import cmd import sys _, pdb_id, issue = sys.argv cmd.fetch(pdb_id) cmd.bg_color(&amp;#34;white&amp;#34;) cmd.remove(&amp;#34;solvent&amp;#34;) cmd.zoom() cmd.orient() cmd.set(&amp;#34;cartoon_fancy_helices&amp;#34;, 1) cmd.set(&amp;#34;ambient&amp;#34;, 0.5) cmd.set(&amp;#34;antialias&amp;#34;, 2) cmd.set(&amp;#34;cartoon_sampling&amp;#34;, 30) cmd.set(&amp;#34;ray_trace_mode&amp;#34;, 2) cmd.set(&amp;#34;ray_trace_color&amp;#34;, &amp;#34;0x775abf&amp;#34;) cmd.set(&amp;#34;ray_opaque_background&amp;#34;, &amp;#34;off&amp;#34;) cmd.set(&amp;#34;ray_trace_gain&amp;#34;, 2) cmd.set(&amp;#34;ray_trace_disco_factor&amp;#34;, 1.) cmd.ray(2000) filename = f&amp;#34;{issue}_pymol.png&amp;#34; cmd.png(str(filename), width=2000, height=2000, dpi=300) cmd.quit() Cropping Uses ImageMagick and smartcrop
+./make_post_image &amp;lt;pdb_id&amp;gt; &amp;lt;issue_num&amp;gt;
+pymol -cq draw_protein.py -- $1 $2 convert $2_pymol.png -trim +repage $2.png ./smartcrop -w 1500 -h 300 -s pyramid $2.</description>
     </item>
     
     
