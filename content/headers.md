@@ -50,3 +50,4 @@ mv $2.png FoldedWeekly/static/img
 | 5 | 7r6z |
 | 6 | 7ptx |
 | 7 | 7p12 |
+| 8 | 7dsd |
