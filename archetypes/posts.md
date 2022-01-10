@@ -15,3 +15,21 @@ cover:
     alt: "{{ replace .Name "-" " " | title }}" # alt text
     relative: false # when using page bundles set this to true
 ---
+
+## []()
+
+## []()
+
+## []()
+
+## Figure of the Week
+
+{{< figure src="img/_fotw." >}}
+
+>
+>
+
+**Source: []()**
+
+## Some more
+- 
