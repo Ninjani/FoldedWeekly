@@ -9,7 +9,16 @@
       <link>https://folded-weekly.netlify.app/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Jan 2022 17:33:09 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 11:15:12 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 9</title>
+      <link>https://folded-weekly.netlify.app/posts/9/</link>
+      <pubDate>Tue, 18 Jan 2022 11:15:12 +0100</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/posts/9/</guid>
+      <description>This week there&amp;rsquo;s a review on using genetic datasets with structure prediction, modeling peptide-protein complexes, and finding the next scary COVID variant</description>
+    </item>
+    
     <item>
       <title>Issue 8</title>
       <link>https://folded-weekly.netlify.app/posts/8/</link>

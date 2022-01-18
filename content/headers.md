@@ -51,3 +51,4 @@ mv $2.png FoldedWeekly/static/img
 | 6 | 7ptx |
 | 7 | 7p12 |
 | 8 | 7dsd |
+| 9 | 7nma |
