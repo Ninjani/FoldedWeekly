@@ -9,7 +9,16 @@
       <link>https://folded-weekly.netlify.app/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 13:17:16 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Feb 2022 08:50:49 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 12</title>
+      <link>https://folded-weekly.netlify.app/posts/12/</link>
+      <pubDate>Wed, 09 Feb 2022 08:50:49 +0100</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/posts/12/</guid>
+      <description>This week we cover protein evolution as seen by language models, molecular design by reinforcement learning, and molecular electronics to measure binding</description>
+    </item>
+    
     <item>
       <title>Issue 11</title>
       <link>https://folded-weekly.netlify.app/posts/11/</link>
