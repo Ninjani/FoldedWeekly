@@ -9,7 +9,16 @@
       <link>https://folded-weekly.netlify.app/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Feb 2022 08:50:49 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 12:14:15 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 13</title>
+      <link>https://folded-weekly.netlify.app/posts/13/</link>
+      <pubDate>Wed, 16 Feb 2022 12:14:15 +0100</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/posts/13/</guid>
+      <description>This week there&amp;rsquo;s two very fast approaches for structure search and docking, and a review on conformational ensembles of flexible proteins</description>
+    </item>
+    
     <item>
       <title>Issue 12</title>
       <link>https://folded-weekly.netlify.app/posts/12/</link>
