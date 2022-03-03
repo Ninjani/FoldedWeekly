@@ -9,7 +9,16 @@
       <link>https://folded-weekly.netlify.app/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Feb 2022 12:14:15 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Mar 2022 14:35:29 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 14</title>
+      <link>https://folded-weekly.netlify.app/posts/14/</link>
+      <pubDate>Thu, 03 Mar 2022 14:35:29 +0100</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/posts/14/</guid>
+      <description>This week we cover protein annotation, evolution, representation, mutation, and interaction!</description>
+    </item>
+    
     <item>
       <title>Issue 13</title>
       <link>https://folded-weekly.netlify.app/posts/13/</link>
