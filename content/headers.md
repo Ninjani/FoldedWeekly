@@ -56,3 +56,6 @@ mv $2.png FoldedWeekly/static/img
 | 11 | 4rlc |
 | 12 | 7se8 |
 | 13 |7oin |
+| 14 | 7n97 |
+| 15 | 7qwg |
+| 16 | 7m0b | 

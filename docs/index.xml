@@ -9,7 +9,16 @@
       <link>https://folded-weekly.netlify.app/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Mar 2022 23:00:08 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 13:49:24 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 16</title>
+      <link>https://folded-weekly.netlify.app/posts/16/</link>
+      <pubDate>Mon, 21 Mar 2022 13:49:24 +0100</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/posts/16/</guid>
+      <description>This week we look at the structural universe of microbes, predicting amino acid side chains, and separating coevolution from entropy</description>
+    </item>
+    
     <item>
       <title>Issue 15</title>
       <link>https://folded-weekly.netlify.app/posts/15/</link>
