@@ -9,7 +9,16 @@
       <link>https://folded-weekly.netlify.app/logo_full.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Mar 2023 13:27:05 +0100</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Apr 2023 18:55:17 +0200</lastBuildDate><atom:link href="https://folded-weekly.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 19</title>
+      <link>https://folded-weekly.netlify.app/posts/19/</link>
+      <pubDate>Wed, 05 Apr 2023 18:55:17 +0200</pubDate>
+      
+      <guid>https://folded-weekly.netlify.app/posts/19/</guid>
+      <description>Today we look at errors in structural biology, if protein language models incorporate quaternary state information, and check out a model that can design antibody libraries using GPT&amp;rsquo;s and deep reinforcement learning.</description>
+    </item>
+    
     <item>
       <title>Issue 18</title>
       <link>https://folded-weekly.netlify.app/posts/18/</link>
